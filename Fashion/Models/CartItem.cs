@@ -14,5 +14,6 @@ namespace Fashion.Models
         public MauSac Color { set; get; }
         public KichThuoc Size { set; get; }
         public int Quantity { set; get; }
+
     }
 }
