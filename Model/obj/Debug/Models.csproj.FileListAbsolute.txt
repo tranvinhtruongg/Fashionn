@@ -1,0 +1,38 @@
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\Model.dll.config
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\Model.dll
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\Model.pdb
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\EntityFramework.dll
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\EntityFramework.xml
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\MTA\Visual studio\Fashion\Model\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\MTA\Visual studio\Fashion\Model\obj\Debug\Model.dll
+E:\MTA\Visual studio\Fashion\Model\obj\Debug\Model.pdb
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\db_thoitrang.mdf
+E:\MTA\Visual studio\Fashion\Model\bin\Debug\db_thoitrang_log.ldf
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\db_thoitrang.mdf
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\db_thoitrang_log.ldf
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\Model.dll.config
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\Model.dll
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\Model.pdb
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.dll
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.xml
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\obj\Debug\Model.dll
+C:\Users\naq\Desktop\Công nghệ web\Fashion\Model\obj\Debug\Model.pdb
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\db_thoitrang.mdf
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\db_thoitrang_log.ldf
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\Model.dll.config
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\Model.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\Model.pdb
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.xml
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Debug\Model.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Debug\Model.pdb

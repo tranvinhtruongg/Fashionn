@@ -1,0 +1,3079 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Fashion\bin\app.publish\</_PublishTargetUrl>
+    <History>False|2023-07-26T01:49:02.6694934Z;False|2023-07-26T08:47:05.3794700+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/db_thoitrang.mdf">
+      <publishTime>05/05/2016 10:08:23</publishTime>
+    </File>
+    <File Include="App_Data/db_thoitrang_log.ldf">
+      <publishTime>05/05/2016 10:08:23</publishTime>
+    </File>
+    <File Include="Areas/Admin/Models/Model.edmx.diagram">
+      <publishTime>03/18/2016 11:37:38</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Admin/Create.cshtml">
+      <publishTime>05/16/2016 13:17:55</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Admin/Index.cshtml">
+      <publishTime>05/23/2016 18:44:19</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Advertisement/Create.cshtml">
+      <publishTime>05/01/2016 23:40:58</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Advertisement/Index.cshtml">
+      <publishTime>05/23/2016 18:44:52</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Article/Create.cshtml">
+      <publishTime>05/27/2016 20:37:55</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Article/Edit.cshtml">
+      <publishTime>05/16/2016 13:21:34</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Article/Index.cshtml">
+      <publishTime>05/23/2016 18:45:03</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Brand/Create.cshtml">
+      <publishTime>04/20/2016 22:36:38</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Brand/Index.cshtml">
+      <publishTime>05/23/2016 18:45:15</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Category/Create.cshtml">
+      <publishTime>04/23/2016 14:50:22</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Category/CreateSubCategory.cshtml">
+      <publishTime>05/01/2016 00:19:05</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Category/Index.cshtml">
+      <publishTime>05/23/2016 18:45:28</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Category/SubCategory.cshtml">
+      <publishTime>05/21/2016 15:07:31</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Collection/Create.cshtml">
+      <publishTime>04/20/2016 22:55:15</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Collection/Index.cshtml">
+      <publishTime>05/23/2016 18:45:41</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Color/Create.cshtml">
+      <publishTime>05/25/2016 16:49:23</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Color/Index.cshtml">
+      <publishTime>05/23/2016 18:45:51</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Comment/Edit.cshtml">
+      <publishTime>05/01/2016 14:42:12</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Comment/Index.cshtml">
+      <publishTime>05/23/2016 18:46:00</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Customer/Edit.cshtml">
+      <publishTime>05/16/2016 13:20:09</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Customer/Index.cshtml">
+      <publishTime>05/23/2016 18:46:09</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Home/Index.cshtml">
+      <publishTime>04/21/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Login/Index.cshtml">
+      <publishTime>05/01/2016 21:44:34</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/OrderForm/Detail.cshtml">
+      <publishTime>05/01/2016 16:43:43</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/OrderForm/Edit.cshtml">
+      <publishTime>06/14/2016 19:31:36</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/OrderForm/Index.cshtml">
+      <publishTime>06/14/2016 19:30:19</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Create.cshtml">
+      <publishTime>05/15/2016 14:53:29</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Detail.cshtml">
+      <publishTime>05/27/2016 21:50:04</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Edit.cshtml">
+      <publishTime>04/28/2016 09:00:16</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Product/Index.cshtml">
+      <publishTime>05/23/2016 18:46:32</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Profile/EditPassword.cshtml">
+      <publishTime>05/04/2016 17:58:44</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Profile/Index.cshtml">
+      <publishTime>05/02/2016 14:48:17</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Shared/Layout.cshtml">
+      <publishTime>05/27/2016 17:27:14</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Size/Create.cshtml">
+      <publishTime>05/25/2016 16:53:27</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/Size/Index.cshtml">
+      <publishTime>05/25/2016 16:58:18</publishTime>
+    </File>
+    <File Include="Areas/Admin/Views/web.config">
+      <publishTime>03/18/2016 10:04:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/bootstrap-responsive.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/bootstrap-responsive.min.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/bootstrap.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/bootstrap.min.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/chosen.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/elfinder.min.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/elfinder.theme.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/font-awesome-ie7.min.css">
+      <publishTime>03/18/2016 10:06:39</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/font-awesome.min.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/fullcalendar.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/glyphicons.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/halflings.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/ie.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/ie9.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/jquery-ui-1.8.21.custom.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/jquery.cleditor.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/jquery.gritter.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/jquery.iphone.toggle.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/jquery.noty.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/noty_theme_default.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/style-forms.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/style-responsive.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/style.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/uniform.default.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/css/uploadify.css">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/fontawesome-webfont-0.eot">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/fontawesome-webfont-62877.eot">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/fontawesome-webfont-62877.ttf">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/fontawesome-webfont-62877.woff">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphicons-regular-0.eot">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphicons-regular.eot">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphicons-regular.svg">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphicons-regular.ttf">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphicons-regular.woff">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphiconshalflings-regular-0.eot">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphiconshalflings-regular.eot">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphiconshalflings-regular.svg">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphiconshalflings-regular.ttf">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/font/glyphiconshalflings-regular.woff">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/arrows-active.png">
+      <publishTime>03/18/2016 10:11:41</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/arrows-normal.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/avatar.jpg">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/bg-input-focus.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/bg-input.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/bg-login.jpg">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/browser-chrome-big.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/browser-firefox-big.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/browser-ie.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/browser-opera.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/browser-safari.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/buttons.gif">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-left%402x.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-left-metro%402x.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-left-metro.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-left.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-right%402x.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-right-metro%402x.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-right-metro.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chat-right.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/chosen-sprite.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/close-button-white.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/close-button.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/crop.gif">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/diagram.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/dialogs.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo1.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo10.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo11.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo12.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo13.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo2.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo3.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo4.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo5.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo6.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo7.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo8.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/gallery/photo9.jpg">
+      <publishTime>03/18/2016 10:06:40</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons-halflings-white.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons-halflings.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons-white.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons-white.svg">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons.svg">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons_halflings-white.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons_halflings-white.svg">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons_halflings.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/glyphicons_halflings.svg">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/icons-big.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/icons-small.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/iphone-style-checkboxes/off-63584.png">
+      <publishTime>03/18/2016 10:11:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/iphone-style-checkboxes/on-63584.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/iphone-style-checkboxes/slider_center-63584.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/iphone-style-checkboxes/slider_left-63584.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/iphone-style-checkboxes/slider_right-63584.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/progress.gif">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/quicklook-bg.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/quicklook-icons.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/quote.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/resize.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/slider_r8.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/spinner-mini.gif">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/sprite.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/timeline-bg.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/timeline-left-arrow%402x.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/timeline-left-arrow.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/timeline-right-arrow%402x.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/timeline-right-arrow.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/toolbar.gif">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/toolbar.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-icons_222222_256x240.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-icons_2e83ff_256x240.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-icons_454545_256x240.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-icons_888888_256x240.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/ui-icons_cd0a0a_256x240.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/img/uploadify-cancel.png">
+      <publishTime>03/18/2016 10:11:44</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/bootstrap.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/bootstrap.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/counter.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/custom.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/excanvas.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/fullcalendar.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery-1.9.1.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery-migrate-1.0.0.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery-ui-1.10.0.custom.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.chosen.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.cleditor.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.cookie.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.dataTables.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.elfinder.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.flot.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.flot.pie.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.flot.resize.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.flot.stack.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.gritter.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.imagesloaded.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.iphone.toggle.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.knob.modified.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.masonry.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.noty.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.raty.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.sparkline.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.ui.touch-punch.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.uniform.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.unobtrusive-ajax.js">
+      <publishTime>04/20/2016 21:16:57</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.unobtrusive-ajax.min.js">
+      <publishTime>04/20/2016 21:16:57</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/jquery.uploadify-3.1.min.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/modernizr.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/JavaScript/retina.js">
+      <publishTime>03/18/2016 10:13:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/bootstrap.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/bootstrap.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/changelog.txt">
+      <publishTime>04/25/2016 14:05:58</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/ckfinder.html">
+      <publishTime>04/25/2016 14:05:58</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/ckfinder.js">
+      <publishTime>04/25/2016 14:05:58</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/ckfinder_v1.js">
+      <publishTime>04/25/2016 14:05:58</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/config.ascx">
+      <publishTime>05/01/2016 23:01:27</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/config.js">
+      <publishTime>05/01/2016 23:24:51</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/connector.aspx">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/bg.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/ca.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/cs.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/cy.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/da.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/de.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/el.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/en.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/eo.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/es-mx.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/es.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/et.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/fa.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/fi.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/fr.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/gu.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/he.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/hi.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/hr.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/hu.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/it.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/ja.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/lt.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/lv.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/nb.xml">
+      <publishTime>04/25/2016 14:05:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/nl.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/nn.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/no.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/pl.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/pt-br.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/ro.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/ru.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/sk.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/sl.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/sr.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/sv.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/tr.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/vi.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/zh-cn.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/core/connector/aspx/lang/zh-tw.xml">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/001.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/002.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/003.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/004.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/005.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/006.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/007.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/008.html">
+      <publishTime>04/25/2016 14:06:00</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/009.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/010.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/011.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/012.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/013.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/014.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/015.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/header.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/license.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/suggestions.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/files/toc.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/cs/index.html">
+      <publishTime>04/25/2016 14:06:01</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/001.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/002.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/003.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/004.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/005.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/006.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/007.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/008.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/009.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/010.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/011.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/012.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/013.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/014.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/015.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/header.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/license.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/suggestions.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/files/toc.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/en/index.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/001.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/002.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/003.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/004.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/005.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/006.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/007.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/008.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/009.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/010.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/011.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/012.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/013.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/header.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/001.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/002.gif">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/003.gif">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/004.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/005.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/006.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/007.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/008.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/009.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/010.gif">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/011.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/012.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/013.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/014.gif">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/015.gif">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/016.gif">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/017.gif">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/018.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/019.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/images/020.png">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/license.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/suggestions.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/files/toc.html">
+      <publishTime>04/25/2016 14:06:04</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es-mx/index.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/001.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/002.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/003.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/004.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/005.html">
+      <publishTime>04/25/2016 14:06:02</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/006.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/007.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/008.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/009.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/010.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/011.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/012.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/013.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/header.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/001.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/002.gif">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/003.gif">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/004.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/005.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/006.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/007.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/008.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/009.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/010.gif">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/011.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/012.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/013.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/014.gif">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/015.gif">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/016.gif">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/017.gif">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/018.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/019.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/images/020.png">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/license.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/suggestions.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/files/toc.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/es/index.html">
+      <publishTime>04/25/2016 14:06:03</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/001.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/002.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/003.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/004.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/005.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/006.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/007.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/008.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/009.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/010.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/011.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/012.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/013.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/header.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/001.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/002.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/003.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/004.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/005.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/006.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/007.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/008.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/009.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/010.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/011.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/012.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/013.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/014.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/015.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/016.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/017.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/018.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/019.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/images/020.gif">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/license.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/suggestions.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/files/toc.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/fi/index.html">
+      <publishTime>04/25/2016 14:06:05</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/002.gif">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/003.gif">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_basket_clear.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_basket_drag.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_basket_empty.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_basket_file_menu.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_basket_remove.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_already_exists.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_copied.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_delete.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_display_01.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_display_02.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_display_03.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_display_04.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_drag_copy.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_drag_move.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_menu.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_moved.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_pane.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_rename.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_resize.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_resize_both.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_resize_new.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_resize_overwrite.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_resize_resized.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_resize_thumbnails.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_select_hovered.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_select_selected.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_select_unselected.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_view_list.png">
+      <publishTime>04/25/2016 14:06:06</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_file_view_thumbnails.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_collapse.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_copied_from_basket.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_delete.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_expand.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_loading.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_menu.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_moved_from_basket.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_new.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_pane.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_rename.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_folder_select.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_interface.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_menu_arrow.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_menu_arrows.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_resize_lock.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_resize_reset.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_resize_unlock.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_settings.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_status_empty.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_status_file.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_status_folder.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_toolbar.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_toolbar_help.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_toolbar_refresh.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_upload_01.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_upload_03.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_upload_04.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_upload_09.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/images/CKFinder_upload_10.png">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/other/help.css">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/files/other/help.js">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/001.html">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/002.html">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/003.html">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/004.html">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/005.html">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/006.html">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/007.html">
+      <publishTime>04/25/2016 14:06:07</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/008.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/009.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/010.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/011.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/012.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/013.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/header.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/001.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/002.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/003.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/004.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/005.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/006.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/007.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/008.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/009.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/010.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/011.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/012.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/013.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/014.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/015.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/016.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/017.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/018.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/019.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/images/020.gif">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/license.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/suggestions.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/files/toc.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/lt/index.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/001.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/002.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/003.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/004.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/005.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/006.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/007.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/008.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/009.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/010.html">
+      <publishTime>04/25/2016 14:06:08</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/011.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/012.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/013.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/014.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/015.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/header.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/license.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/suggestions.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/files/toc.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/help/pl/index.html">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/install.txt">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/bg.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/ca.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/cs.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/cy.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/da.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/de.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/el.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/en.js">
+      <publishTime>04/25/2016 14:06:09</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/eo.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/es-mx.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/es.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/et.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/fa.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/fi.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/fr.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/gu.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/he.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/hi.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/hr.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/hu.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/it.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/ja.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/lt.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/lv.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/nb.js">
+      <publishTime>04/25/2016 14:06:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/nl.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/nn.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/no.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/pl.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/pt-br.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/ro.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/ru.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/sk.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/sl.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/sr.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/sv.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/tr.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/vi.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/zh-cn.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/zh-tw.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/lang/_translationstatus.txt">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/license.txt">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/dummy/lang/en.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/dummy/lang/pl.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/dummy/plugin.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/bin/Debug/CKFinder_FileEditor.dll">
+      <publishTime>04/21/2016 11:12:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/bin/Debug/CKFinder_FileEditor.pdb">
+      <publishTime>04/21/2016 11:12:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/bin/Release/CKFinder_FileEditor.dll">
+      <publishTime>04/21/2016 11:12:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/bin/Release/CKFinder_FileEditor.pdb">
+      <publishTime>04/21/2016 11:12:10</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/addon/mode/overlay.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/lib/codemirror.css">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/lib/codemirror.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/LICENSE">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/clike/clike.js">
+      <publishTime>04/25/2016 14:06:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/css/css.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/htmlmixed/htmlmixed.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/javascript/javascript.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/markdown/markdown.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/perl/perl.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/python/python.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/rst/rst.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/ruby/ruby.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/sass/sass.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/sql/sql.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/stex/stex.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/codemirror/mode/xml/xml.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/fileeditor/plugin.js">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/flashupload/flash/Uploader.swf">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/flashupload/Uploader.html">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/colorbox.css">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/border.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/controls.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderBottomCenter.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderBottomLeft.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderBottomRight.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderMiddleLeft.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderMiddleRight.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderTopCenter.png">
+      <publishTime>04/25/2016 14:06:12</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderTopLeft.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/ie6/borderTopRight.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/loading.gif">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/loading_background.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/images/overlay.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/jquery.colorbox-min.js">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/jquery.min.js">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/gallery/colorbox/license.txt">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/imageresize/bin/Debug/CKFinder_ImageResize.dll">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/imageresize/bin/Debug/CKFinder_ImageResize.pdb">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/imageresize/bin/Release/CKFinder_ImageResize.dll">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/imageresize/bin/Release/CKFinder_ImageResize.pdb">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/imageresize/images/mini.gif">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/imageresize/plugin.js">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/watermark/bin/Debug/CKFinder_Watermark.dll">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/watermark/bin/Debug/CKFinder_Watermark.pdb">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/watermark/bin/Release/CKFinder_Watermark.dll">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/watermark/bin/Release/CKFinder_Watermark.pdb">
+      <publishTime>04/21/2016 11:12:11</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/plugins/watermark/logo.gif">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/app.css">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/assets/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/assets/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/assets/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/assets/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/assets/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/host.css">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/ai.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/avi.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/bmp.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/cs.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/default.icon.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/dll.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/doc.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/docx.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/exe.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/fla.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/gif.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/jpg.png">
+      <publishTime>04/25/2016 14:06:13</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/js.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/mdb.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/mp3.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/ogg.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/pdf.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/ppt.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/pptx.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/rdp.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/swf.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/swt.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/txt.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/vsd.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/xls.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/xlsx.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/xml.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/16/zip.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/ai.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/avi.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/cs.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/default.icon.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/dll.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/doc.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/docx.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/exe.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/fla.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/gif.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/jpg.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/js.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/mdb.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/mp3.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/ogg.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/pdf.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/ppt.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/pptx.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/rdp.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/swf.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/swt.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/txt.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/vsd.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/xls.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/xlsx.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/xml.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/images/icons/32/zip.png">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/skin.js">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/bootstrap/uipanel.css">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/app.css">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/host.css">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/ckffolder.gif">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/ckffolderopened.gif">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/ckfminus.gif">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/ckfnothumb.gif">
+      <publishTime>04/25/2016 14:06:14</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/ckfplus.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons.png">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/ai.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/avi.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/bmp.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/cs.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/default.icon.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/dll.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/doc.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/docx.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/exe.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/fla.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/gif.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/jpg.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/js.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/mdb.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/mp3.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/ogg.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/pdf.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/ppt.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/pptx.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/rdp.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/swf.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/swt.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/txt.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/vsd.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/xls.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/xlsx.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/xml.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/16/zip.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/ai.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/avi.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/bmp.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/cs.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/default.icon.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/dll.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/doc.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/docx.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/exe.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/fla.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/gif.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/jpg.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/js.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/mdb.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/mp3.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/ogg.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/ogg.png">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/pdf.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/ppt.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/pptx.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/rdp.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/swf.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/swt.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/txt.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/vsd.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/xls.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/xlsx.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/xml.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/icons/32/zip.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/loaders/16x16.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/loaders/32x32.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/spacer.gif">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/sprites.png">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/sprites_ie6.png">
+      <publishTime>04/25/2016 14:06:15</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/add.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/clear_basket.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/delete.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/download.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/help.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/maximize.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/refresh.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/settings.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/images/toolbar/view.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/richcombo.css">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/skin.js">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/kama/uipanel.css">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/app.css">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/host.css">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/ckffolder.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/ckffolderopened.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/ckfminus.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/ckfnothumb.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/ckfplus.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/dialog_sides.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/dialog_sides.png">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/dialog_sides_rtl.png">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons.png">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/ai.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/avi.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/bmp.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/cs.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/default.icon.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/dll.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/doc.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/docx.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/exe.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/fla.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/gif.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/jpg.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/js.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/mdb.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/mp3.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/pdf.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/ppt.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/pptx.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/rdp.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/swf.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/swt.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/txt.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/vsd.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/xls.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/xlsx.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/xml.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/16/zip.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/ai.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/avi.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/bmp.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/cs.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/default.icon.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/dll.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/doc.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/docx.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/exe.gif">
+      <publishTime>04/25/2016 14:06:16</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/fla.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/gif.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/jpg.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/js.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/mdb.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/mp3.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/pdf.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/ppt.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/pptx.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/rdp.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/swf.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/swt.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/txt.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/vsd.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/xls.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/xlsx.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/xml.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/icons/32/zip.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/loaders/16x16.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/loaders/32x32.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/spacer.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/sprites.png">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/sprites_ie6.png">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/add.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/clear_basket.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/delete.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/download.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/help.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/maximize.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/refresh.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/settings.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar/view.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/images/toolbar_start.gif">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/richcombo.css">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/skin.js">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/skins/v1/uipanel.css">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/translations.txt">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/userfiles/.htaccess">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/aspx/popup.aspx">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/aspx/popups.aspx">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/aspx/standalone.aspx">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/ckeditor.html">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/index.html">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/popup.html">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/popups.html">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/public_api.html">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/sample.css">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/skin_bootstrap.html">
+      <publishTime>04/25/2016 14:06:17</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/skin_v1.html">
+      <publishTime>04/25/2016 14:06:18</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/standalone.html">
+      <publishTime>04/25/2016 14:06:18</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/ckfinder/_samples/standalone_v1.html">
+      <publishTime>04/25/2016 14:06:18</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/counter.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/custom.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/excanvas.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/fullcalendar.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery-1.9.1.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery-migrate-1.0.0.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery-ui-1.10.0.custom.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.chosen.min.js">
+      <publishTime>05/05/2016 09:34:59</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.cleditor.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.cookie.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.dataTables.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.elfinder.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.flot.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.flot.pie.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.flot.resize.min.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.flot.stack.js">
+      <publishTime>03/18/2016 10:06:42</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.gritter.min.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.imagesloaded.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.iphone.toggle.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.knob.modified.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.masonry.min.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.noty.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.raty.min.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.sparkline.min.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.ui.touch-punch.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.uniform.min.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/jquery.uploadify-3.1.min.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/modernizr.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Admin/js/retina.js">
+      <publishTime>03/18/2016 10:06:43</publishTime>
+    </File>
+    <File Include="Assets/Client/css/animate.min.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/bootstrap.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/bootstrap.css.map">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/bootstrap.min.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/custom.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/font-awesome.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/flexslider-icon.eot">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/flexslider-icon.svg">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/flexslider-icon.ttf">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/flexslider-icon.woff">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/fontawesome-webfont.eot">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/fontawesome-webfont.svg">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/fontawesome-webfont.ttf">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/fontawesome-webfont.woff">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/fonts/FontAwesome.otf">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/jquery-ui.css">
+      <publishTime>06/19/2016 18:34:45</publishTime>
+    </File>
+    <File Include="Assets/Client/css/owl.carousel.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/owl.theme.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/owl.transitions.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/style.blue.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/style.default.css">
+      <publishTime>05/20/2016 11:03:41</publishTime>
+    </File>
+    <File Include="Assets/Client/css/style.green.css">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/css/style.mono.css">
+      <publishTime>05/02/2016 21:54:50</publishTime>
+    </File>
+    <File Include="Assets/Client/css/style.pink.css">
+      <publishTime>05/02/2016 21:54:50</publishTime>
+    </File>
+    <File Include="Assets/Client/css/style.violet.css">
+      <publishTime>05/02/2016 21:54:50</publishTime>
+    </File>
+    <File Include="Assets/Client/img/AjaxLoader.gif">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/img/favicon.png">
+      <publishTime>05/03/2016 21:01:28</publishTime>
+    </File>
+    <File Include="Assets/Client/img/grabbing.png">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/img/icon-profile.jpg">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/img/logo-small.png">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/img/logo.png">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/baseController.js">
+      <publishTime>06/19/2016 21:35:13</publishTime>
+    </File>
+    <File Include="Assets/Client/js/bootstrap-hover-dropdown.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/bootstrap.min.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/custom.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/front.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/jquery-1.11.0.min.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/jquery-ui.js">
+      <publishTime>06/19/2016 18:35:02</publishTime>
+    </File>
+    <File Include="Assets/Client/js/jquery.cookie.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/jquery.flexslider.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/jquery.flexslider.min.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/main.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/modernizr.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/owl.carousel.min.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/respond.min.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="Assets/Client/js/waypoints.min.js">
+      <publishTime>05/02/2016 21:54:49</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/18/2016 10:00:11</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>03/18/2016 10:00:11</publishTime>
+    </File>
+    <File Include="bin/CKFinder.dll">
+      <publishTime>04/14/2016 13:06:46</publishTime>
+    </File>
+    <File Include="bin/db_thoitrang.mdf">
+      <publishTime>06/08/2016 10:34:00</publishTime>
+    </File>
+    <File Include="bin/db_thoitrang_log.ldf">
+      <publishTime>06/08/2016 10:34:01</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/08/2016 10:17:36</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>04/08/2016 10:17:36</publishTime>
+    </File>
+    <File Include="bin/Fashion.dll">
+      <publishTime>07/26/2023 08:48:59</publishTime>
+    </File>
+    <File Include="bin/Fashion.pdb">
+      <publishTime>07/26/2023 08:48:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>03/18/2016 10:00:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>03/18/2016 10:00:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>03/18/2016 10:00:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/18/2016 10:00:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/18/2016 10:00:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>03/18/2016 10:00:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/18/2016 10:00:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>03/18/2016 10:00:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>03/18/2016 10:00:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>03/18/2016 10:00:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/18/2016 10:00:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>03/18/2016 10:00:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/18/2016 10:00:08</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>07/26/2023 08:47:01</publishTime>
+    </File>
+    <File Include="bin/Model.dll.config">
+      <publishTime>06/13/2023 21:05:44</publishTime>
+    </File>
+    <File Include="bin/Model.pdb">
+      <publishTime>07/26/2023 08:47:01</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/18/2016 10:00:10</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/18/2016 10:00:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/18/2016 10:00:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/18/2016 10:00:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/18/2016 10:00:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/18/2016 10:00:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/18/2016 10:00:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/18/2016 10:00:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/18/2016 10:00:07</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/18/2016 10:00:11</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/18/2016 09:59:53</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/18/2016 09:59:53</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/18/2016 10:00:13</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/18/2016 09:59:38</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/18/2016 09:59:53</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/18/2016 09:59:53</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/18/2016 09:59:53</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/18/2016 09:59:53</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/18/2016 09:59:38</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/13/2023 21:05:44</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/18/2016 09:59:53</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/18/2016 09:59:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>03/18/2016 09:59:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>03/18/2016 09:59:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>03/18/2016 09:59:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.js">
+      <publishTime>04/20/2016 21:09:36</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
+      <publishTime>04/20/2016 21:09:36</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>03/18/2016 10:00:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>03/18/2016 10:00:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>03/18/2016 10:00:24</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>03/18/2016 10:00:24</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>03/18/2016 10:00:09</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>03/18/2016 10:00:12</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>03/18/2016 10:00:12</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>06/19/2016 18:37:41</publishTime>
+    </File>
+    <File Include="Views/Article/Detail.cshtml">
+      <publishTime>07/11/2023 21:16:55</publishTime>
+    </File>
+    <File Include="Views/Article/Index.cshtml">
+      <publishTime>05/28/2016 19:14:44</publishTime>
+    </File>
+    <File Include="Views/Cart/Index.cshtml">
+      <publishTime>06/06/2016 09:54:42</publishTime>
+    </File>
+    <File Include="Views/Cart/OrderSuccess.cshtml">
+      <publishTime>05/28/2016 21:14:40</publishTime>
+    </File>
+    <File Include="Views/Contact/Index.cshtml">
+      <publishTime>06/14/2016 21:06:32</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/28/2016 19:23:03</publishTime>
+    </File>
+    <File Include="Views/Product/Detail.cshtml">
+      <publishTime>05/27/2016 23:38:07</publishTime>
+    </File>
+    <File Include="Views/Product/ListProduct.cshtml">
+      <publishTime>05/28/2016 19:15:29</publishTime>
+    </File>
+    <File Include="Views/Product/ListProductByCollection.cshtml">
+      <publishTime>05/28/2016 19:15:47</publishTime>
+    </File>
+    <File Include="Views/Product/SearchResult.cshtml">
+      <publishTime>06/19/2016 22:02:06</publishTime>
+    </File>
+    <File Include="Views/Profile/Index.cshtml">
+      <publishTime>05/27/2016 17:06:40</publishTime>
+    </File>
+    <File Include="Views/Profile/ModifySuccess.cshtml">
+      <publishTime>05/10/2016 12:54:20</publishTime>
+    </File>
+    <File Include="Views/Profile/PurchasingHistory.cshtml">
+      <publishTime>05/27/2016 17:10:00</publishTime>
+    </File>
+    <File Include="Views/Profile/PurchasingHistoryDetail.cshtml">
+      <publishTime>05/27/2016 17:10:12</publishTime>
+    </File>
+    <File Include="Views/Register/Index.cshtml">
+      <publishTime>05/28/2016 18:32:01</publishTime>
+    </File>
+    <File Include="Views/Register/RegisterSuccess.cshtml">
+      <publishTime>06/14/2016 19:16:31</publishTime>
+    </File>
+    <File Include="Views/Shared/Article.cshtml">
+      <publishTime>05/27/2016 16:22:07</publishTime>
+    </File>
+    <File Include="Views/Shared/Hot_Product.cshtml">
+      <publishTime>07/11/2023 21:24:30</publishTime>
+    </File>
+    <File Include="Views/Shared/Inspired.cshtml">
+      <publishTime>07/11/2023 22:08:24</publishTime>
+    </File>
+    <File Include="Views/Shared/Menu_Article.cshtml">
+      <publishTime>05/27/2016 16:19:01</publishTime>
+    </File>
+    <File Include="Views/Shared/Menu_Category.cshtml">
+      <publishTime>05/27/2016 17:12:25</publishTime>
+    </File>
+    <File Include="Views/Shared/NavBar.cshtml">
+      <publishTime>06/19/2016 21:37:39</publishTime>
+    </File>
+    <File Include="Views/Shared/Slider.cshtml">
+      <publishTime>05/03/2016 20:11:47</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>06/19/2016 21:55:07</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/22/2016 11:24:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/26/2023 08:47:03</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

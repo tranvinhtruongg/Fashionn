@@ -1,0 +1,14 @@
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\db_thoitrang.mdf
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\db_thoitrang_log.ldf
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\Model.dll.config
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\Model.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\Model.pdb
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\EntityFramework.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\EntityFramework.xml
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Release\Models.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Release\Models.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Release\Models.csproj.CopyComplete
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Release\Model.dll
+C:\Users\Thinkpad\Downloads\FashionShopOnline\FashionShopOnline\C_ng ngh_ web\Công nghệ web\Fashion\Model\obj\Release\Model.pdb
